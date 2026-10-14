@@ -1,4 +1,4 @@
-# 🎁 Bale Gift Auto-Opener
+# 🎁 Bale Gift Opener
 
 Automatically detects gift messages on Bale and attempts to open them.
 
@@ -71,10 +71,9 @@ The application must remain running and connected to the internet to continue sc
 
 To run it continuously on a personal computer, keep the computer powered on and prevent it from sleeping. For more reliable 24/7 availability, consider running the application on a VPS.
 
-
 ---
 
-# 🎁 بازکنندهٔ خودکار هدیه‌های بله
+# 🎁 بازکنندهٔ خودکار هدیه‌های بله 
 
 پیام‌های حاوی هدیه در بله را به‌صورت خودکار شناسایی می‌کند و تلاش می‌کند آن‌ها را باز کند.
 
@@ -146,4 +145,3 @@ python3 main.py
 برای ادامهٔ اسکن پیام‌ها، برنامه باید در حال اجرا باشد و به اینترنت متصل بماند.
 
 برای اجرای مداوم روی رایانهٔ شخصی، رایانه را روشن نگه دارید و از رفتن آن به حالت خواب جلوگیری کنید. برای دسترس‌پذیری مطمئن‌تر در تمام ساعات شبانه‌روز، استفاده از یک سرور مجازی (VPS) را در نظر بگیرید.
-

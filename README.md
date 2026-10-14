@@ -71,9 +71,6 @@ The application must remain running and connected to the internet to continue sc
 
 To run it continuously on a personal computer, keep the computer powered on and prevent it from sleeping. For more reliable 24/7 availability, consider running the application on a VPS.
 
-## 📄 License
-
-See the repository for license information.
 
 ---
 

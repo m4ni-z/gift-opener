@@ -36,7 +36,7 @@ python -m pip install aiobale-py
 python main.py
 ```
 
-## 🐧 Linux (Ubuntu)
+## 🐧 Linux
 
 ### 1. Install Dependencies
 

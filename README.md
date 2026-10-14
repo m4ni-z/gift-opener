@@ -115,7 +115,7 @@ python -m pip install aiobale-py
 python main.py
 ```
 
-## 🐧 لینوکس (اوبونتو)
+## 🐧 لینوکس
 
 ### ۱. نصب پیش‌نیازها
 
